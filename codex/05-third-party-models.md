@@ -126,6 +126,12 @@ Codex 把所有配置放在一个文件里：`~/.codex/config.toml` （这是 Co
 
 菜鸟教程介绍的 **CC Switch**（一款免费开源的跨平台桌面工具，GitHub 仓库 [github.com/farion1231/cc-switch](https://github.com/farion1231/cc-switch) ）走的就是这条路：在本机起代理，把 Codex 的请求透明转发到你选的后端，还内置了 DeepSeek 等常见平台的预设，省得你手填。
 
+![CC Switch 工具界面（占位图）](assets/05-third-party-models/placeholder-ccswitch.png)
+
+![CC Switch 添加 DeepSeek 提供商（占位图）](assets/05-third-party-models/placeholder-add-provider.png)
+
+> 📷 **占位图**：暂用菜鸟教程的真机截图占位（来源 runoob.com），**发布前务必替换为我们自己的真机截图**。
+
 **类比：找个翻译。** 你（Codex）只会说英语（OpenAI 协议），对方（DeepSeek）只听得懂中文。路线一是指望对方自己学英语（平台支持 Responses API）；路线二是你雇个翻译（代理工具）站中间，两头传话。翻译靠谱，沟通就顺。
 
 两条路线怎么选，对照着挑：
