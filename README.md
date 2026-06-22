@@ -27,8 +27,8 @@
 
 → 从这里开始：[coding.stormzhang.ai](https://coding.stormzhang.ai)
 
-<details>
-<summary>展开完整 53 篇目录</summary>
+<details open>
+<summary><b>完整 53 篇目录</b></summary>
 
 - [01 · Claude Code 简介](https://coding.stormzhang.ai/claude-code/01-what-is-claude-code)
 - [02 · 安装与使用](https://coding.stormzhang.ai/claude-code/02-install)
@@ -91,8 +91,8 @@
 
 → 从这里开始：[coding.stormzhang.ai](https://coding.stormzhang.ai)
 
-<details>
-<summary>展开完整 39 篇目录</summary>
+<details open>
+<summary><b>完整 39 篇目录</b></summary>
 
 - [01 · 认识 Codex 与四种入口](https://coding.stormzhang.ai/codex/01-what-is-codex)
 - [02 · Codex 核心概念速览](https://coding.stormzhang.ai/codex/02-core-concepts)
